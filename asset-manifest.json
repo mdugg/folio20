@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mdugg/folio20/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/mdugg/folio20/static/js/main.51a86ecc.chunk.js",
-    "main.js.map": "/mdugg/folio20/static/js/main.51a86ecc.chunk.js.map",
+    "main.css": "/mdugg/folio20/static/css/main.a822a877.chunk.css",
+    "main.js": "/mdugg/folio20/static/js/main.dd59536c.chunk.js",
+    "main.js.map": "/mdugg/folio20/static/js/main.dd59536c.chunk.js.map",
     "runtime-main.js": "/mdugg/folio20/static/js/runtime-main.3640606c.js",
     "runtime-main.js.map": "/mdugg/folio20/static/js/runtime-main.3640606c.js.map",
     "static/js/2.b69a3d4b.chunk.js": "/mdugg/folio20/static/js/2.b69a3d4b.chunk.js",
     "static/js/2.b69a3d4b.chunk.js.map": "/mdugg/folio20/static/js/2.b69a3d4b.chunk.js.map",
     "index.html": "/mdugg/folio20/index.html",
-    "precache-manifest.c2dd25cf9c60e269906f93210e635d07.js": "/mdugg/folio20/precache-manifest.c2dd25cf9c60e269906f93210e635d07.js",
+    "precache-manifest.bffb9580e2a5480df4e94d2974e84226.js": "/mdugg/folio20/precache-manifest.bffb9580e2a5480df4e94d2974e84226.js",
     "service-worker.js": "/mdugg/folio20/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/mdugg/folio20/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.a822a877.chunk.css.map": "/mdugg/folio20/static/css/main.a822a877.chunk.css.map",
     "static/js/2.b69a3d4b.chunk.js.LICENSE.txt": "/mdugg/folio20/static/js/2.b69a3d4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3640606c.js",
     "static/js/2.b69a3d4b.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.51a86ecc.chunk.js"
+    "static/css/main.a822a877.chunk.css",
+    "static/js/main.dd59536c.chunk.js"
   ]
 }

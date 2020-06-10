@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mdugg/folio20/precache-manifest.c2dd25cf9c60e269906f93210e635d07.js"
+  "/mdugg/folio20/precache-manifest.bffb9580e2a5480df4e94d2974e84226.js"
 );
 
 self.addEventListener('message', (event) => {
