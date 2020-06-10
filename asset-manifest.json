@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mdugg/folio20.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/mdugg/folio20.git/static/js/main.1b615024.chunk.js",
-    "main.js.map": "/mdugg/folio20.git/static/js/main.1b615024.chunk.js.map",
+    "main.js": "/mdugg/folio20.git/static/js/main.77dad94e.chunk.js",
+    "main.js.map": "/mdugg/folio20.git/static/js/main.77dad94e.chunk.js.map",
     "runtime-main.js": "/mdugg/folio20.git/static/js/runtime-main.4e033554.js",
     "runtime-main.js.map": "/mdugg/folio20.git/static/js/runtime-main.4e033554.js.map",
     "static/js/2.b69a3d4b.chunk.js": "/mdugg/folio20.git/static/js/2.b69a3d4b.chunk.js",
     "static/js/2.b69a3d4b.chunk.js.map": "/mdugg/folio20.git/static/js/2.b69a3d4b.chunk.js.map",
     "index.html": "/mdugg/folio20.git/index.html",
-    "precache-manifest.162ad64cbfb8a9e6eda71bb35625c9c3.js": "/mdugg/folio20.git/precache-manifest.162ad64cbfb8a9e6eda71bb35625c9c3.js",
+    "precache-manifest.d1a9fe5d2842a538297b05d705660175.js": "/mdugg/folio20.git/precache-manifest.d1a9fe5d2842a538297b05d705660175.js",
     "service-worker.js": "/mdugg/folio20.git/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/mdugg/folio20.git/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.b69a3d4b.chunk.js.LICENSE.txt": "/mdugg/folio20.git/static/js/2.b69a3d4b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4e033554.js",
     "static/js/2.b69a3d4b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1b615024.chunk.js"
+    "static/js/main.77dad94e.chunk.js"
   ]
 }

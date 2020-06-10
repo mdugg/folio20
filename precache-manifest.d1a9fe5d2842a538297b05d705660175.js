@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9eaccfb89e7b2aa3ac17a65cba7f889b",
+    "revision": "d20132fabd8ccd598d96729c1f382d30",
     "url": "/mdugg/folio20.git/index.html"
   },
   {
-    "revision": "b52e4116466edb39d548",
+    "revision": "72ce2935aa65f76499cb",
     "url": "/mdugg/folio20.git/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mdugg/folio20.git/static/js/2.b69a3d4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b52e4116466edb39d548",
-    "url": "/mdugg/folio20.git/static/js/main.1b615024.chunk.js"
+    "revision": "72ce2935aa65f76499cb",
+    "url": "/mdugg/folio20.git/static/js/main.77dad94e.chunk.js"
   },
   {
     "revision": "958ae4bdc1d8112a263e",
