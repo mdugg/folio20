@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.4db5502f.chunk.css",
-    "main.js": "/folio20/static/js/main.c1ff7e28.chunk.js",
-    "main.js.map": "/folio20/static/js/main.c1ff7e28.chunk.js.map",
+    "main.css": "/folio20/static/css/main.fee849c1.chunk.css",
+    "main.js": "/folio20/static/js/main.22e04d7e.chunk.js",
+    "main.js.map": "/folio20/static/js/main.22e04d7e.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
     "runtime-main.js.map": "/folio20/static/js/runtime-main.4d7e030a.js.map",
     "static/js/2.33858e0d.chunk.js": "/folio20/static/js/2.33858e0d.chunk.js",
     "static/js/2.33858e0d.chunk.js.map": "/folio20/static/js/2.33858e0d.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.79509b41cd5de177baf3ab71eb071361.js": "/folio20/precache-manifest.79509b41cd5de177baf3ab71eb071361.js",
+    "precache-manifest.297f489cb92f0528bd310e40d48ee0a8.js": "/folio20/precache-manifest.297f489cb92f0528bd310e40d48ee0a8.js",
     "service-worker.js": "/folio20/service-worker.js",
-    "static/css/main.4db5502f.chunk.css.map": "/folio20/static/css/main.4db5502f.chunk.css.map",
+    "static/css/main.fee849c1.chunk.css.map": "/folio20/static/css/main.fee849c1.chunk.css.map",
     "static/js/2.33858e0d.chunk.js.LICENSE.txt": "/folio20/static/js/2.33858e0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4d7e030a.js",
     "static/js/2.33858e0d.chunk.js",
-    "static/css/main.4db5502f.chunk.css",
-    "static/js/main.c1ff7e28.chunk.js"
+    "static/css/main.fee849c1.chunk.css",
+    "static/js/main.22e04d7e.chunk.js"
   ]
 }
