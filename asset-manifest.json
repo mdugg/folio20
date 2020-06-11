@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mdugg/folio20.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/mdugg/folio20.git/static/js/main.77dad94e.chunk.js",
-    "main.js.map": "/mdugg/folio20.git/static/js/main.77dad94e.chunk.js.map",
-    "runtime-main.js": "/mdugg/folio20.git/static/js/runtime-main.4e033554.js",
-    "runtime-main.js.map": "/mdugg/folio20.git/static/js/runtime-main.4e033554.js.map",
-    "static/js/2.b69a3d4b.chunk.js": "/mdugg/folio20.git/static/js/2.b69a3d4b.chunk.js",
-    "static/js/2.b69a3d4b.chunk.js.map": "/mdugg/folio20.git/static/js/2.b69a3d4b.chunk.js.map",
-    "index.html": "/mdugg/folio20.git/index.html",
-    "precache-manifest.d1a9fe5d2842a538297b05d705660175.js": "/mdugg/folio20.git/precache-manifest.d1a9fe5d2842a538297b05d705660175.js",
-    "service-worker.js": "/mdugg/folio20.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/mdugg/folio20.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.b69a3d4b.chunk.js.LICENSE.txt": "/mdugg/folio20.git/static/js/2.b69a3d4b.chunk.js.LICENSE.txt"
+    "main.css": "/folio20/static/css/main.fee849c1.chunk.css",
+    "main.js": "/folio20/static/js/main.641d8333.chunk.js",
+    "main.js.map": "/folio20/static/js/main.641d8333.chunk.js.map",
+    "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
+    "runtime-main.js.map": "/folio20/static/js/runtime-main.4d7e030a.js.map",
+    "static/js/2.33858e0d.chunk.js": "/folio20/static/js/2.33858e0d.chunk.js",
+    "static/js/2.33858e0d.chunk.js.map": "/folio20/static/js/2.33858e0d.chunk.js.map",
+    "index.html": "/folio20/index.html",
+    "precache-manifest.d7ff49d0d18cde51be15bdc8ef01c1d8.js": "/folio20/precache-manifest.d7ff49d0d18cde51be15bdc8ef01c1d8.js",
+    "service-worker.js": "/folio20/service-worker.js",
+    "static/css/main.fee849c1.chunk.css.map": "/folio20/static/css/main.fee849c1.chunk.css.map",
+    "static/js/2.33858e0d.chunk.js.LICENSE.txt": "/folio20/static/js/2.33858e0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e033554.js",
-    "static/js/2.b69a3d4b.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.77dad94e.chunk.js"
+    "static/js/runtime-main.4d7e030a.js",
+    "static/js/2.33858e0d.chunk.js",
+    "static/css/main.fee849c1.chunk.css",
+    "static/js/main.641d8333.chunk.js"
   ]
 }
