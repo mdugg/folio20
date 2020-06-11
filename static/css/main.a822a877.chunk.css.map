@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,qBAAsB,CACtB,uCAAyC,CACzC,kCAAmC,CACnC,iCACF","file":"main.a822a877.chunk.css","sourcesContent":["body {\n  margin: 0;\n  border: 8px solid #eee;\n  font-family: \"Helvetica Neue\", sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n"]}
