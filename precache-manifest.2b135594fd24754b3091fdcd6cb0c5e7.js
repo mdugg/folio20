@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d55a5d1f63c625702369cc76b461601a",
+    "revision": "d12066d15872650cb1caaee52e1030a7",
     "url": "/folio20/index.html"
   },
   {
-    "revision": "5d53830d1c002f9d85b6",
+    "revision": "c292f7611764596f06e8",
     "url": "/folio20/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "dc03bd9a3dc5327d8621",
-    "url": "/folio20/static/css/main.6ae1adcd.chunk.css"
+    "revision": "bc695f5825cd83559168",
+    "url": "/folio20/static/css/main.9cda7e6e.chunk.css"
   },
   {
-    "revision": "5d53830d1c002f9d85b6",
-    "url": "/folio20/static/js/2.28cdfaa6.chunk.js"
+    "revision": "c292f7611764596f06e8",
+    "url": "/folio20/static/js/2.f4578939.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/folio20/static/js/2.28cdfaa6.chunk.js.LICENSE.txt"
+    "url": "/folio20/static/js/2.f4578939.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc03bd9a3dc5327d8621",
-    "url": "/folio20/static/js/main.c5be78a9.chunk.js"
+    "revision": "bc695f5825cd83559168",
+    "url": "/folio20/static/js/main.f33ad6eb.chunk.js"
   },
   {
     "revision": "76abf15c87b3f65ab384",
     "url": "/folio20/static/js/runtime-main.4d7e030a.js"
+  },
+  {
+    "revision": "5c7088a4d2ba6a48cf8a91344efa2dec",
+    "url": "/folio20/static/media/iep-angular-code.5c7088a4.png"
   },
   {
     "revision": "5270acbeeb6eeb2a5f68fb95c8f20415",
@@ -46,6 +50,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8858c3e9b2b46d68d880f0182f35ed69",
     "url": "/folio20/static/media/iep-ui-design02.8858c3e9.png"
+  },
+  {
+    "revision": "35f697e8f762d19feb35b257096d8864",
+    "url": "/folio20/static/media/iep-ui-design04-thumb.35f697e8.png"
+  },
+  {
+    "revision": "b9835eda45a2fdb376d74f13906ddebc",
+    "url": "/folio20/static/media/iep-ui-design04.b9835eda.png"
+  },
+  {
+    "revision": "9dbc4db181873cf20dc8378dc7213beb",
+    "url": "/folio20/static/media/iep-ui-design06-thumb.9dbc4db1.png"
+  },
+  {
+    "revision": "e609318a225988ae9bfd21347b6acba7",
+    "url": "/folio20/static/media/iep-ui-design06.e609318a.png"
+  },
+  {
+    "revision": "bafe6507cea087054edc25bc2cc5e8ab",
+    "url": "/folio20/static/media/iep-ui-design07-thumb.bafe6507.png"
+  },
+  {
+    "revision": "3fd56b72fea69d5e6291c1e0702f7bf8",
+    "url": "/folio20/static/media/iep-ui-design07.3fd56b72.png"
+  },
+  {
+    "revision": "a0c359f2de2693825ed9e3053cac2bbb",
+    "url": "/folio20/static/media/iep-ui-movie.a0c359f2.mp4"
   },
   {
     "revision": "6db11b9707dcb330518128965010ba16",
