@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.0290c790.chunk.css",
-    "main.js": "/folio20/static/js/main.eb9a9d58.chunk.js",
-    "main.js.map": "/folio20/static/js/main.eb9a9d58.chunk.js.map",
+    "main.css": "/folio20/static/css/main.890bd342.chunk.css",
+    "main.js": "/folio20/static/js/main.69a099eb.chunk.js",
+    "main.js.map": "/folio20/static/js/main.69a099eb.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
     "runtime-main.js.map": "/folio20/static/js/runtime-main.4d7e030a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/folio20/static/css/2.af3c1da9.chunk.css",
     "static/js/2.28889ea9.chunk.js": "/folio20/static/js/2.28889ea9.chunk.js",
     "static/js/2.28889ea9.chunk.js.map": "/folio20/static/js/2.28889ea9.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.68c3f1c237173656e024e478fb05963a.js": "/folio20/precache-manifest.68c3f1c237173656e024e478fb05963a.js",
+    "precache-manifest.9298519508b23df4531b967776280bc3.js": "/folio20/precache-manifest.9298519508b23df4531b967776280bc3.js",
     "service-worker.js": "/folio20/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/folio20/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.0290c790.chunk.css.map": "/folio20/static/css/main.0290c790.chunk.css.map",
+    "static/css/main.890bd342.chunk.css.map": "/folio20/static/css/main.890bd342.chunk.css.map",
     "static/js/2.28889ea9.chunk.js.LICENSE.txt": "/folio20/static/js/2.28889ea9.chunk.js.LICENSE.txt",
     "static/media/iep-angular-code.png": "/folio20/static/media/iep-angular-code.5c7088a4.png",
     "static/media/iep-thumb-cvs.jpg": "/folio20/static/media/iep-thumb-cvs.5270acbe.jpg",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.4d7e030a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.28889ea9.chunk.js",
-    "static/css/main.0290c790.chunk.css",
-    "static/js/main.eb9a9d58.chunk.js"
+    "static/css/main.890bd342.chunk.css",
+    "static/js/main.69a099eb.chunk.js"
   ]
 }
