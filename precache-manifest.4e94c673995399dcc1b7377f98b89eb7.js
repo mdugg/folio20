@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71fad702ce006fcc7430d3b05527f2f2",
+    "revision": "87d5d314d0a9ce4ad2002559b5d12027",
     "url": "/folio20/index.html"
   },
   {
-    "revision": "0aed7085bb1149a5a491",
+    "revision": "8228263fd62948e474c2",
     "url": "/folio20/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "13e2c3e8fd0210c3b4db",
-    "url": "/folio20/static/css/main.de215e7b.chunk.css"
+    "revision": "8acabaa65d45e781f113",
+    "url": "/folio20/static/css/main.61ec20c2.chunk.css"
   },
   {
-    "revision": "0aed7085bb1149a5a491",
-    "url": "/folio20/static/js/2.876f421c.chunk.js"
+    "revision": "8228263fd62948e474c2",
+    "url": "/folio20/static/js/2.5ec7bab9.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/folio20/static/js/2.876f421c.chunk.js.LICENSE.txt"
+    "url": "/folio20/static/js/2.5ec7bab9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13e2c3e8fd0210c3b4db",
-    "url": "/folio20/static/js/main.72a8f65a.chunk.js"
+    "revision": "8acabaa65d45e781f113",
+    "url": "/folio20/static/js/main.0e05ee8f.chunk.js"
   },
   {
     "revision": "76abf15c87b3f65ab384",
@@ -78,6 +78,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0c359f2de2693825ed9e3053cac2bbb",
     "url": "/folio20/static/media/iep-ui-movie.a0c359f2.mp4"
+  },
+  {
+    "revision": "b5fb60cda6243260400b02cb7e3fc5af",
+    "url": "/folio20/static/media/iep-userflow01.b5fb60cd.png"
+  },
+  {
+    "revision": "ada555f1357ca3cce6e3c4cafb21d4ac",
+    "url": "/folio20/static/media/iep-userflow02.ada555f1.png"
   },
   {
     "revision": "6db11b9707dcb330518128965010ba16",

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.de215e7b.chunk.css",
-    "main.js": "/folio20/static/js/main.72a8f65a.chunk.js",
-    "main.js.map": "/folio20/static/js/main.72a8f65a.chunk.js.map",
+    "main.css": "/folio20/static/css/main.61ec20c2.chunk.css",
+    "main.js": "/folio20/static/js/main.0e05ee8f.chunk.js",
+    "main.js.map": "/folio20/static/js/main.0e05ee8f.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
     "runtime-main.js.map": "/folio20/static/js/runtime-main.4d7e030a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/folio20/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.876f421c.chunk.js": "/folio20/static/js/2.876f421c.chunk.js",
-    "static/js/2.876f421c.chunk.js.map": "/folio20/static/js/2.876f421c.chunk.js.map",
+    "static/js/2.5ec7bab9.chunk.js": "/folio20/static/js/2.5ec7bab9.chunk.js",
+    "static/js/2.5ec7bab9.chunk.js.map": "/folio20/static/js/2.5ec7bab9.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.176fc87df702c44c1e43be2c2424f440.js": "/folio20/precache-manifest.176fc87df702c44c1e43be2c2424f440.js",
+    "precache-manifest.4e94c673995399dcc1b7377f98b89eb7.js": "/folio20/precache-manifest.4e94c673995399dcc1b7377f98b89eb7.js",
     "service-worker.js": "/folio20/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/folio20/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.de215e7b.chunk.css.map": "/folio20/static/css/main.de215e7b.chunk.css.map",
-    "static/js/2.876f421c.chunk.js.LICENSE.txt": "/folio20/static/js/2.876f421c.chunk.js.LICENSE.txt",
+    "static/css/main.61ec20c2.chunk.css.map": "/folio20/static/css/main.61ec20c2.chunk.css.map",
+    "static/js/2.5ec7bab9.chunk.js.LICENSE.txt": "/folio20/static/js/2.5ec7bab9.chunk.js.LICENSE.txt",
     "static/media/iep-angular-code.png": "/folio20/static/media/iep-angular-code.5c7088a4.png",
     "static/media/iep-thumb-cvs.jpg": "/folio20/static/media/iep-thumb-cvs.5270acbe.jpg",
     "static/media/iep-ui-design01-thumb.png": "/folio20/static/media/iep-ui-design01-thumb.d3eb4e6c.png",
@@ -27,6 +27,8 @@
     "static/media/iep-ui-design07-thumb.png": "/folio20/static/media/iep-ui-design07-thumb.bafe6507.png",
     "static/media/iep-ui-design07.png": "/folio20/static/media/iep-ui-design07.3fd56b72.png",
     "static/media/iep-ui-movie.mp4": "/folio20/static/media/iep-ui-movie.a0c359f2.mp4",
+    "static/media/iep-userflow01.png": "/folio20/static/media/iep-userflow01.b5fb60cd.png",
+    "static/media/iep-userflow02.png": "/folio20/static/media/iep-userflow02.ada555f1.png",
     "static/media/iep-wire01.jpg": "/folio20/static/media/iep-wire01.6db11b97.jpg",
     "static/media/iep-wire02.jpg": "/folio20/static/media/iep-wire02.d9afdd9e.jpg",
     "static/media/landing-iep-screen.png": "/folio20/static/media/landing-iep-screen.ed180fc2.png",
@@ -35,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.4d7e030a.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.876f421c.chunk.js",
-    "static/css/main.de215e7b.chunk.css",
-    "static/js/main.72a8f65a.chunk.js"
+    "static/js/2.5ec7bab9.chunk.js",
+    "static/css/main.61ec20c2.chunk.css",
+    "static/js/main.0e05ee8f.chunk.js"
   ]
 }
