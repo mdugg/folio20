@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.61ec20c2.chunk.css",
-    "main.js": "/folio20/static/js/main.1e495ceb.chunk.js",
-    "main.js.map": "/folio20/static/js/main.1e495ceb.chunk.js.map",
+    "main.css": "/folio20/static/css/main.be5f11bc.chunk.css",
+    "main.js": "/folio20/static/js/main.2bb2effd.chunk.js",
+    "main.js.map": "/folio20/static/js/main.2bb2effd.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
     "runtime-main.js.map": "/folio20/static/js/runtime-main.4d7e030a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/folio20/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5ec7bab9.chunk.js": "/folio20/static/js/2.5ec7bab9.chunk.js",
-    "static/js/2.5ec7bab9.chunk.js.map": "/folio20/static/js/2.5ec7bab9.chunk.js.map",
+    "static/js/2.11c350da.chunk.js": "/folio20/static/js/2.11c350da.chunk.js",
+    "static/js/2.11c350da.chunk.js.map": "/folio20/static/js/2.11c350da.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.d13b8b4f3af0136ecd638e1fd59a79f6.js": "/folio20/precache-manifest.d13b8b4f3af0136ecd638e1fd59a79f6.js",
+    "precache-manifest.89e3d57eca80e073f32d20dfef568b83.js": "/folio20/precache-manifest.89e3d57eca80e073f32d20dfef568b83.js",
     "service-worker.js": "/folio20/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/folio20/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.61ec20c2.chunk.css.map": "/folio20/static/css/main.61ec20c2.chunk.css.map",
-    "static/js/2.5ec7bab9.chunk.js.LICENSE.txt": "/folio20/static/js/2.5ec7bab9.chunk.js.LICENSE.txt",
+    "static/css/main.be5f11bc.chunk.css.map": "/folio20/static/css/main.be5f11bc.chunk.css.map",
+    "static/js/2.11c350da.chunk.js.LICENSE.txt": "/folio20/static/js/2.11c350da.chunk.js.LICENSE.txt",
     "static/media/iep-angular-code.png": "/folio20/static/media/iep-angular-code.5c7088a4.png",
     "static/media/iep-thumb-cvs.jpg": "/folio20/static/media/iep-thumb-cvs.5270acbe.jpg",
     "static/media/iep-ui-design01-thumb.png": "/folio20/static/media/iep-ui-design01-thumb.d3eb4e6c.png",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.4d7e030a.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5ec7bab9.chunk.js",
-    "static/css/main.61ec20c2.chunk.css",
-    "static/js/main.1e495ceb.chunk.js"
+    "static/js/2.11c350da.chunk.js",
+    "static/css/main.be5f11bc.chunk.css",
+    "static/js/main.2bb2effd.chunk.js"
   ]
 }
