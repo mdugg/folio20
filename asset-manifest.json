@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.be5f11bc.chunk.css",
+    "main.css": "/folio20/static/css/main.0e791bc8.chunk.css",
     "main.js": "/folio20/static/js/main.2bb2effd.chunk.js",
     "main.js.map": "/folio20/static/js/main.2bb2effd.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
@@ -9,10 +9,10 @@
     "static/js/2.11c350da.chunk.js": "/folio20/static/js/2.11c350da.chunk.js",
     "static/js/2.11c350da.chunk.js.map": "/folio20/static/js/2.11c350da.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.89e3d57eca80e073f32d20dfef568b83.js": "/folio20/precache-manifest.89e3d57eca80e073f32d20dfef568b83.js",
+    "precache-manifest.e189a5ac99a3d1e97855dd4bb6270209.js": "/folio20/precache-manifest.e189a5ac99a3d1e97855dd4bb6270209.js",
     "service-worker.js": "/folio20/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/folio20/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.be5f11bc.chunk.css.map": "/folio20/static/css/main.be5f11bc.chunk.css.map",
+    "static/css/main.0e791bc8.chunk.css.map": "/folio20/static/css/main.0e791bc8.chunk.css.map",
     "static/js/2.11c350da.chunk.js.LICENSE.txt": "/folio20/static/js/2.11c350da.chunk.js.LICENSE.txt",
     "static/media/iep-angular-code.png": "/folio20/static/media/iep-angular-code.5c7088a4.png",
     "static/media/iep-thumb-cvs.jpg": "/folio20/static/media/iep-thumb-cvs.5270acbe.jpg",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.4d7e030a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.11c350da.chunk.js",
-    "static/css/main.be5f11bc.chunk.css",
+    "static/css/main.0e791bc8.chunk.css",
     "static/js/main.2bb2effd.chunk.js"
   ]
 }
