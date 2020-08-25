@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.e7cac874.chunk.css",
-    "main.js": "/folio20/static/js/main.5f3b8a15.chunk.js",
-    "main.js.map": "/folio20/static/js/main.5f3b8a15.chunk.js.map",
+    "main.css": "/folio20/static/css/main.cf5ebdf8.chunk.css",
+    "main.js": "/folio20/static/js/main.503e69fb.chunk.js",
+    "main.js.map": "/folio20/static/js/main.503e69fb.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
     "runtime-main.js.map": "/folio20/static/js/runtime-main.4d7e030a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/folio20/static/css/2.af3c1da9.chunk.css",
     "static/js/2.1bf976cc.chunk.js": "/folio20/static/js/2.1bf976cc.chunk.js",
     "static/js/2.1bf976cc.chunk.js.map": "/folio20/static/js/2.1bf976cc.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.290687715d7399f97d801e604d59eba1.js": "/folio20/precache-manifest.290687715d7399f97d801e604d59eba1.js",
+    "precache-manifest.0bee98a65e9fc15195f7762aa9fbac4e.js": "/folio20/precache-manifest.0bee98a65e9fc15195f7762aa9fbac4e.js",
     "service-worker.js": "/folio20/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/folio20/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e7cac874.chunk.css.map": "/folio20/static/css/main.e7cac874.chunk.css.map",
+    "static/css/main.cf5ebdf8.chunk.css.map": "/folio20/static/css/main.cf5ebdf8.chunk.css.map",
     "static/js/2.1bf976cc.chunk.js.LICENSE.txt": "/folio20/static/js/2.1bf976cc.chunk.js.LICENSE.txt",
     "static/media/_app.scss": "/folio20/static/media/ui-cursor-vertical-scroll.e7fea637.svg",
     "static/media/iep-angular-code.png": "/folio20/static/media/iep-angular-code.5c7088a4.png",
@@ -60,7 +60,7 @@
     "static/js/runtime-main.4d7e030a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.1bf976cc.chunk.js",
-    "static/css/main.e7cac874.chunk.css",
-    "static/js/main.5f3b8a15.chunk.js"
+    "static/css/main.cf5ebdf8.chunk.css",
+    "static/js/main.503e69fb.chunk.js"
   ]
 }
