@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56405c305ed7309fc5fbc9fd5d846a7e",
+    "revision": "5a552b14b5482748598f3cfc96f6a115",
     "url": "/folio20/index.html"
   },
   {
-    "revision": "6c323ce8a5886597c139",
+    "revision": "39dd99cfcdb2d02f0211",
     "url": "/folio20/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "103bcb49a18ec7e768b2",
-    "url": "/folio20/static/css/main.cf5ebdf8.chunk.css"
+    "revision": "43a4e50f869211d781be",
+    "url": "/folio20/static/css/main.e39cfbda.chunk.css"
   },
   {
-    "revision": "6c323ce8a5886597c139",
-    "url": "/folio20/static/js/2.1bf976cc.chunk.js"
+    "revision": "39dd99cfcdb2d02f0211",
+    "url": "/folio20/static/js/2.fb53f906.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/folio20/static/js/2.1bf976cc.chunk.js.LICENSE.txt"
+    "url": "/folio20/static/js/2.fb53f906.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "103bcb49a18ec7e768b2",
-    "url": "/folio20/static/js/main.4d60a15f.chunk.js"
+    "revision": "43a4e50f869211d781be",
+    "url": "/folio20/static/js/main.8a34324a.chunk.js"
   },
   {
     "revision": "76abf15c87b3f65ab384",
@@ -34,6 +34,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fb0799d38a9145b982bbda06d48f659a",
     "url": "/folio20/static/media/background01b.fb0799d3.png"
+  },
+  {
+    "revision": "bd3cc7175625750bf1504f35981a3103",
+    "url": "/folio20/static/media/cruise-event.bd3cc717.jpg"
+  },
+  {
+    "revision": "fb7a2d6e38020be2f4789c89fc9b0408",
+    "url": "/folio20/static/media/cruise-ship-in-dock-sunset-b.fb7a2d6e.jpg"
+  },
+  {
+    "revision": "9a2b485badc8b944159773bd61d4dd20",
+    "url": "/folio20/static/media/cs-chart-desire-feasible.9a2b485b.png"
+  },
+  {
+    "revision": "e3a11e4a7b0bfb7724f5f14499b4d8e2",
+    "url": "/folio20/static/media/cs-flow-diagram.e3a11e4a.svg"
+  },
+  {
+    "revision": "30f55212f256083a6e3ffdb599e4dfbc",
+    "url": "/folio20/static/media/ideation-sketching.30f55212.jpg"
+  },
+  {
+    "revision": "578dd0ab3c94a1bd4a3572ddb0d3d37a",
+    "url": "/folio20/static/media/ideation-user-groups.578dd0ab.jpg"
   },
   {
     "revision": "5c7088a4d2ba6a48cf8a91344efa2dec",
@@ -198,6 +222,74 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d5fc45cb8c62e2cbb714b337413eb6b7",
     "url": "/folio20/static/media/landing-iglu-thumb.d5fc45cb.jpg"
+  },
+  {
+    "revision": "e8ec3840afaf4a94f138bfee64df41f6",
+    "url": "/folio20/static/media/large-screen01.e8ec3840.png"
+  },
+  {
+    "revision": "5c773a9d25cab396b9132a4b6cab54a8",
+    "url": "/folio20/static/media/large-screen02.5c773a9d.png"
+  },
+  {
+    "revision": "c1a0bd7c4b35efb2def0f4d121b3a19f",
+    "url": "/folio20/static/media/mobile.c1a0bd7c.png"
+  },
+  {
+    "revision": "6fb100fffe5ccd7a7024ecaee9c91ae0",
+    "url": "/folio20/static/media/screen01.6fb100ff.png"
+  },
+  {
+    "revision": "ac3a8a16328b2fa37d6619ac1e32154c",
+    "url": "/folio20/static/media/screen01.ac3a8a16.png"
+  },
+  {
+    "revision": "9783845459cf023e443bfdf34695a1e9",
+    "url": "/folio20/static/media/screen02.97838454.png"
+  },
+  {
+    "revision": "1061f49a89f235c089c93aacf22234fb",
+    "url": "/folio20/static/media/screen03.1061f49a.png"
+  },
+  {
+    "revision": "69ecf618dc58fe99be450269f0de05fc",
+    "url": "/folio20/static/media/screen04.69ecf618.png"
+  },
+  {
+    "revision": "ca980df91f4ea8dfc60521dd586faa08",
+    "url": "/folio20/static/media/screen05.ca980df9.png"
+  },
+  {
+    "revision": "47b4a60e0a1574e8082145e0117db329",
+    "url": "/folio20/static/media/screen06.47b4a60e.png"
+  },
+  {
+    "revision": "55614d4735d3bf36a19d9f5a09d2a092",
+    "url": "/folio20/static/media/screen06.55614d47.png"
+  },
+  {
+    "revision": "745f0aa23221bff9490fb0e1c898dd51",
+    "url": "/folio20/static/media/screen10.745f0aa2.png"
+  },
+  {
+    "revision": "2f56322680e733e422a84ef87556f6cb",
+    "url": "/folio20/static/media/screen12.2f563226.png"
+  },
+  {
+    "revision": "ecf9d4d6e0fdf78f4bb6f25243029a0d",
+    "url": "/folio20/static/media/screen15.ecf9d4d6.png"
+  },
+  {
+    "revision": "cd541eb8b1bc2f4aca7847f10a8b37f5",
+    "url": "/folio20/static/media/small-screen01.cd541eb8.png"
+  },
+  {
+    "revision": "3bfb6e7f0ebe1cd07e3c878cd5e53645",
+    "url": "/folio20/static/media/small-screen02.3bfb6e7f.png"
+  },
+  {
+    "revision": "7122533b0e11013d9a3e3d3160bbc599",
+    "url": "/folio20/static/media/ui-cursor-horiz-scroll.7122533b.svg"
   },
   {
     "revision": "e7fea637d6d67b817aca01e1593871b9",
