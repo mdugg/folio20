@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.cbbbc499.chunk.css",
+    "main.css": "/folio20/static/css/main.687f28a7.chunk.css",
     "main.js": "/folio20/static/js/main.66766ce7.chunk.js",
     "main.js.map": "/folio20/static/js/main.66766ce7.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
@@ -9,10 +9,10 @@
     "static/js/2.d01174e8.chunk.js": "/folio20/static/js/2.d01174e8.chunk.js",
     "static/js/2.d01174e8.chunk.js.map": "/folio20/static/js/2.d01174e8.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.e36a31ec30852483d79a2e7b73783bb4.js": "/folio20/precache-manifest.e36a31ec30852483d79a2e7b73783bb4.js",
+    "precache-manifest.d61a6d650b058f78930ea8876c1afaf7.js": "/folio20/precache-manifest.d61a6d650b058f78930ea8876c1afaf7.js",
     "service-worker.js": "/folio20/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/folio20/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.cbbbc499.chunk.css.map": "/folio20/static/css/main.cbbbc499.chunk.css.map",
+    "static/css/main.687f28a7.chunk.css.map": "/folio20/static/css/main.687f28a7.chunk.css.map",
     "static/js/2.d01174e8.chunk.js.LICENSE.txt": "/folio20/static/js/2.d01174e8.chunk.js.LICENSE.txt",
     "static/media/_app.scss": "/folio20/static/media/ui-cursor-vertical-scroll.e7fea637.svg",
     "static/media/cruise-event.jpg": "/folio20/static/media/cruise-event.bd3cc717.jpg",
@@ -81,7 +81,7 @@
     "static/js/runtime-main.4d7e030a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.d01174e8.chunk.js",
-    "static/css/main.cbbbc499.chunk.css",
+    "static/css/main.687f28a7.chunk.css",
     "static/js/main.66766ce7.chunk.js"
   ]
 }
