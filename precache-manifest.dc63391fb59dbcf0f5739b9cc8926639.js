@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7155d67d3ab282a8404904bd838c2597",
+    "revision": "45d439584e4b62cb5d222cbcba3bceab",
     "url": "/folio20/index.html"
   },
   {
-    "revision": "8b2a3ae68f85708f1dd5",
+    "revision": "c29256610358626bafa1",
     "url": "/folio20/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "852046f380d6aeb77983",
-    "url": "/folio20/static/css/main.687f28a7.chunk.css"
+    "revision": "80b0022d67f62d62d9a7",
+    "url": "/folio20/static/css/main.81a319ff.chunk.css"
   },
   {
-    "revision": "8b2a3ae68f85708f1dd5",
-    "url": "/folio20/static/js/2.d01174e8.chunk.js"
+    "revision": "c29256610358626bafa1",
+    "url": "/folio20/static/js/2.1bac4a35.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/folio20/static/js/2.d01174e8.chunk.js.LICENSE.txt"
+    "url": "/folio20/static/js/2.1bac4a35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "852046f380d6aeb77983",
-    "url": "/folio20/static/js/main.30c0490c.chunk.js"
+    "revision": "80b0022d67f62d62d9a7",
+    "url": "/folio20/static/js/main.15c7cdb8.chunk.js"
   },
   {
     "revision": "76abf15c87b3f65ab384",
@@ -238,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5c773a9d25cab396b9132a4b6cab54a8",
     "url": "/folio20/static/media/large-screen02.5c773a9d.png"
+  },
+  {
+    "revision": "19f21e5c6239946b1aa57dc085da3b76",
+    "url": "/folio20/static/media/martin-duggan-profile-pic2020.19f21e5c.jpg"
   },
   {
     "revision": "c1a0bd7c4b35efb2def0f4d121b3a19f",
