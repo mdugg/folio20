@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45d439584e4b62cb5d222cbcba3bceab",
+    "revision": "82633c83392e645076d7ad17f520cd92",
     "url": "/folio20/index.html"
   },
   {
-    "revision": "c29256610358626bafa1",
+    "revision": "1f4932ccb8727fef8634",
     "url": "/folio20/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "80b0022d67f62d62d9a7",
-    "url": "/folio20/static/css/main.81a319ff.chunk.css"
+    "revision": "6129f17556a626670ccc",
+    "url": "/folio20/static/css/main.9594f878.chunk.css"
   },
   {
-    "revision": "c29256610358626bafa1",
-    "url": "/folio20/static/js/2.1bac4a35.chunk.js"
+    "revision": "1f4932ccb8727fef8634",
+    "url": "/folio20/static/js/2.c4216164.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/folio20/static/js/2.1bac4a35.chunk.js.LICENSE.txt"
+    "url": "/folio20/static/js/2.c4216164.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80b0022d67f62d62d9a7",
-    "url": "/folio20/static/js/main.15c7cdb8.chunk.js"
+    "revision": "6129f17556a626670ccc",
+    "url": "/folio20/static/js/main.d0e3a402.chunk.js"
   },
   {
     "revision": "76abf15c87b3f65ab384",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/folio20/static/media/cruise-event.bd3cc717.jpg"
   },
   {
+    "revision": "a6c47651d38c979123ceeba46f5fb8a8",
+    "url": "/folio20/static/media/cruise-med-large2.a6c47651.jpg"
+  },
+  {
     "revision": "fb7a2d6e38020be2f4789c89fc9b0408",
     "url": "/folio20/static/media/cruise-ship-in-dock-sunset-b.fb7a2d6e.jpg"
   },
@@ -52,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/folio20/static/media/cs-flow-diagram.e3a11e4a.svg"
   },
   {
+    "revision": "b8beef67983f99dbdb82e254c68a00ad",
+    "url": "/folio20/static/media/ideation-experience-map.b8beef67.png"
+  },
+  {
     "revision": "30f55212f256083a6e3ffdb599e4dfbc",
     "url": "/folio20/static/media/ideation-sketching.30f55212.jpg"
+  },
+  {
+    "revision": "bc627fe3b143f625b39a65bc5ead2739",
+    "url": "/folio20/static/media/ideation-sketching.bc627fe3.png"
   },
   {
     "revision": "578dd0ab3c94a1bd4a3572ddb0d3d37a",
@@ -128,62 +140,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/folio20/static/media/iep-wire02.d9afdd9e.jpg"
   },
   {
-    "revision": "7eafdfbaf0a4200fe99e702ab9cac88d",
-    "url": "/folio20/static/media/igl-prod-desktopA.7eafdfba.png"
-  },
-  {
-    "revision": "eb3cb49123d93c434336b83ca1befb79",
-    "url": "/folio20/static/media/igl-prod-desktopB.eb3cb491.png"
-  },
-  {
-    "revision": "63f0e655206c5fb30dd824d37093a36b",
-    "url": "/folio20/static/media/igl-prod-mobileA.63f0e655.png"
-  },
-  {
-    "revision": "4d60273ccafe7d6765665e1212dfa1dd",
-    "url": "/folio20/static/media/igl-prod-mobileB.4d60273c.png"
-  },
-  {
-    "revision": "6d222ea3bdad9ef12e6fd5a0ccabec34",
-    "url": "/folio20/static/media/igl-prod-wire-desktop.6d222ea3.png"
-  },
-  {
-    "revision": "ef241743add9666000be663c9b71df1f",
-    "url": "/folio20/static/media/igl-prod-wire-mobile.ef241743.png"
-  },
-  {
-    "revision": "0d0f7ff1ad6547580d4a6847040ce23f",
-    "url": "/folio20/static/media/igl-src-desktop01.0d0f7ff1.png"
-  },
-  {
-    "revision": "3c21a5e04bc1d1462f8611ae3c8b2fbe",
-    "url": "/folio20/static/media/igl-src-desktop05.3c21a5e0.png"
-  },
-  {
-    "revision": "a1bd0aa9ebe58a14ab8db6a20f258ade",
-    "url": "/folio20/static/media/igl-src-desktop08.a1bd0aa9.png"
-  },
-  {
-    "revision": "c59ff146b89cdcf36fb615b8169ae0bb",
-    "url": "/folio20/static/media/igl-src-desktop10.c59ff146.png"
-  },
-  {
-    "revision": "40a29a77c756e26af3843597ad5ac23a",
-    "url": "/folio20/static/media/igl-src-desktop13.40a29a77.png"
-  },
-  {
-    "revision": "ad4a562b1a653f96a7ee2003a74930bb",
-    "url": "/folio20/static/media/igl-src-desktop14.ad4a562b.png"
-  },
-  {
-    "revision": "40a29a77c756e26af3843597ad5ac23a",
-    "url": "/folio20/static/media/igl-src-desktop16.40a29a77.png"
-  },
-  {
-    "revision": "3641298a5c60d515f4af3e00194a1e6c",
-    "url": "/folio20/static/media/igl-src-desktop17.3641298a.png"
-  },
-  {
     "revision": "46cf20fef5dc67e45aad8e3955c49934",
     "url": "/folio20/static/media/igl-src-sketch-wires03.46cf20fe.jpg"
   },
@@ -196,20 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/folio20/static/media/igl-srp-mobile01.93df2229.png"
   },
   {
-    "revision": "514ab65de34a4ce95d8825bfd63fee34",
-    "url": "/folio20/static/media/igl-srp-mobile02.514ab65d.png"
-  },
-  {
-    "revision": "e6eb92d9c3578d942b4e4e884cd72d21",
-    "url": "/folio20/static/media/igl-srp-prev-desktop.e6eb92d9.png"
-  },
-  {
-    "revision": "b008237a4fcd46964c299d522b124e6d",
-    "url": "/folio20/static/media/igl-srp-prev-mobile02.b008237a.png"
-  },
-  {
-    "revision": "8728d4aaec044ed5dbf30549c3baf998",
-    "url": "/folio20/static/media/igl-srp-stickies3.8728d4aa.jpg"
+    "revision": "e91278d56389c0d0e2055625d8a16dca",
+    "url": "/folio20/static/media/lab-testing-validation.e91278d5.jpg"
   },
   {
     "revision": "ed180fc2355a823acdfb90c662e6f3d8",
@@ -246,6 +190,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c1a0bd7c4b35efb2def0f4d121b3a19f",
     "url": "/folio20/static/media/mobile.c1a0bd7c.png"
+  },
+  {
+    "revision": "dc1e98f4cb03e68e756f9008b4b318c5",
+    "url": "/folio20/static/media/previous-desktop.dc1e98f4.png"
+  },
+  {
+    "revision": "ea700026dcb520252c64c439a127a18f",
+    "url": "/folio20/static/media/previous-mobile.ea700026.png"
+  },
+  {
+    "revision": "5f47f227b9664cd110f7d9e957b075d3",
+    "url": "/folio20/static/media/research-observations.5f47f227.png"
+  },
+  {
+    "revision": "c734ea32190ea16d1766f4135f1d9af2",
+    "url": "/folio20/static/media/research-user-behaviour.c734ea32.png"
   },
   {
     "revision": "6fb100fffe5ccd7a7024ecaee9c91ae0",
@@ -300,11 +260,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/folio20/static/media/small-screen02.3bfb6e7f.png"
   },
   {
+    "revision": "6ebaf743cf328d3a55f6763d09795f12",
+    "url": "/folio20/static/media/src-design01.6ebaf743.png"
+  },
+  {
+    "revision": "b2f1c0939e83323e5afc63d8871d3d28",
+    "url": "/folio20/static/media/src-design02.b2f1c093.png"
+  },
+  {
+    "revision": "37ebd270c2fecf8b233262640c7bf623",
+    "url": "/folio20/static/media/src-design03.37ebd270.png"
+  },
+  {
+    "revision": "ac568cff27d1fa17f70d5157c329c445",
+    "url": "/folio20/static/media/src-design04.ac568cff.png"
+  },
+  {
+    "revision": "cac573ec3d0e6fcb4401d51bfae920d6",
+    "url": "/folio20/static/media/src-design05.cac573ec.png"
+  },
+  {
+    "revision": "be5fee1ccb546981068045c66b8c3309",
+    "url": "/folio20/static/media/src-template.be5fee1c.png"
+  },
+  {
     "revision": "7122533b0e11013d9a3e3d3160bbc599",
     "url": "/folio20/static/media/ui-cursor-horiz-scroll.7122533b.svg"
   },
   {
     "revision": "e7fea637d6d67b817aca01e1593871b9",
     "url": "/folio20/static/media/ui-cursor-vertical-scroll.e7fea637.svg"
+  },
+  {
+    "revision": "fbb414a31ba033553f4a96c7601f7095",
+    "url": "/folio20/static/media/wireframe-lores.fbb414a3.png"
+  },
+  {
+    "revision": "bddd473457d6f25e347acfd1e6327a73",
+    "url": "/folio20/static/media/wireframe-sketch.bddd4734.png"
   }
 ]);
