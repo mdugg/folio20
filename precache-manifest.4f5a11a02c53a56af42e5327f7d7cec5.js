@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82633c83392e645076d7ad17f520cd92",
+    "revision": "24f9f04f1d021210f19b3ae817b21622",
     "url": "/folio20/index.html"
   },
   {
-    "revision": "1f4932ccb8727fef8634",
+    "revision": "b59f1fcadc1a2483dacf",
     "url": "/folio20/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6129f17556a626670ccc",
-    "url": "/folio20/static/css/main.9594f878.chunk.css"
+    "revision": "68dff9bc4ba25c3e9c1d",
+    "url": "/folio20/static/css/main.982b78ab.chunk.css"
   },
   {
-    "revision": "1f4932ccb8727fef8634",
-    "url": "/folio20/static/js/2.c4216164.chunk.js"
+    "revision": "b59f1fcadc1a2483dacf",
+    "url": "/folio20/static/js/2.afb8ee3f.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/folio20/static/js/2.c4216164.chunk.js.LICENSE.txt"
+    "url": "/folio20/static/js/2.afb8ee3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6129f17556a626670ccc",
-    "url": "/folio20/static/js/main.d0e3a402.chunk.js"
+    "revision": "68dff9bc4ba25c3e9c1d",
+    "url": "/folio20/static/js/main.c2349f40.chunk.js"
   },
   {
     "revision": "76abf15c87b3f65ab384",
@@ -140,40 +140,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/folio20/static/media/iep-wire02.d9afdd9e.jpg"
   },
   {
-    "revision": "46cf20fef5dc67e45aad8e3955c49934",
-    "url": "/folio20/static/media/igl-src-sketch-wires03.46cf20fe.jpg"
-  },
-  {
-    "revision": "c01aeca49949b690232be9ecb19403af",
-    "url": "/folio20/static/media/igl-srp-desktop.c01aeca4.png"
-  },
-  {
-    "revision": "93df222942306a676c81ecbd3176db79",
-    "url": "/folio20/static/media/igl-srp-mobile01.93df2229.png"
-  },
-  {
     "revision": "e91278d56389c0d0e2055625d8a16dca",
     "url": "/folio20/static/media/lab-testing-validation.e91278d5.jpg"
   },
   {
-    "revision": "ed180fc2355a823acdfb90c662e6f3d8",
-    "url": "/folio20/static/media/landing-iep-screen.ed180fc2.png"
-  },
-  {
     "revision": "d3db9b2e648af3058d7bf9456d60f03f",
     "url": "/folio20/static/media/landing-iep-thumb.d3db9b2e.jpg"
-  },
-  {
-    "revision": "d5fc45cb8c62e2cbb714b337413eb6b7",
-    "url": "/folio20/static/media/landing-iglu-thumb.d5fc45cb.jpg"
-  },
-  {
-    "revision": "5fd3889bf79540af8d476b12cbd29edb",
-    "url": "/folio20/static/media/landing-screen-tablet.5fd3889b.png"
-  },
-  {
-    "revision": "9bd51deb61bbee19df605438b5fee359",
-    "url": "/folio20/static/media/landing-thumb.9bd51deb.jpg"
   },
   {
     "revision": "e8ec3840afaf4a94f138bfee64df41f6",
@@ -182,6 +154,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5c773a9d25cab396b9132a4b6cab54a8",
     "url": "/folio20/static/media/large-screen02.5c773a9d.png"
+  },
+  {
+    "revision": "2ee554f36f3d0d36916f1a3dc7208fba",
+    "url": "/folio20/static/media/logo-mono-anthem.2ee554f3.svg"
+  },
+  {
+    "revision": "11c07a4a76459bfc24a7924226648f6e",
+    "url": "/folio20/static/media/logo-mono-iglu.11c07a4a.svg"
+  },
+  {
+    "revision": "5d9b71f1f2e36bc8f3ed9e226f628471",
+    "url": "/folio20/static/media/logo-mono-ingenio.5d9b71f1.svg"
   },
   {
     "revision": "19f21e5c6239946b1aa57dc085da3b76",
@@ -206,6 +190,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c734ea32190ea16d1766f4135f1d9af2",
     "url": "/folio20/static/media/research-user-behaviour.c734ea32.png"
+  },
+  {
+    "revision": "5492c4656320cb4e84645862b2de3654",
+    "url": "/folio20/static/media/screen-iglu-cabin-selection.5492c465.png"
+  },
+  {
+    "revision": "b0a6c412455000d29cd2d22fc5c44e51",
+    "url": "/folio20/static/media/screen-iglu-search.b0a6c412.png"
+  },
+  {
+    "revision": "0c7b2e55112c7ccd32617ed480a6165c",
+    "url": "/folio20/static/media/screen-ingenio.0c7b2e55.png"
   },
   {
     "revision": "6fb100fffe5ccd7a7024ecaee9c91ae0",
