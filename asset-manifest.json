@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/folio20/static/css/main.982b78ab.chunk.css",
-    "main.js": "/folio20/static/js/main.c2349f40.chunk.js",
-    "main.js.map": "/folio20/static/js/main.c2349f40.chunk.js.map",
+    "main.css": "/folio20/static/css/main.18f57c09.chunk.css",
+    "main.js": "/folio20/static/js/main.7fffecbc.chunk.js",
+    "main.js.map": "/folio20/static/js/main.7fffecbc.chunk.js.map",
     "runtime-main.js": "/folio20/static/js/runtime-main.4d7e030a.js",
     "runtime-main.js.map": "/folio20/static/js/runtime-main.4d7e030a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/folio20/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.afb8ee3f.chunk.js": "/folio20/static/js/2.afb8ee3f.chunk.js",
-    "static/js/2.afb8ee3f.chunk.js.map": "/folio20/static/js/2.afb8ee3f.chunk.js.map",
+    "static/js/2.26bc208b.chunk.js": "/folio20/static/js/2.26bc208b.chunk.js",
+    "static/js/2.26bc208b.chunk.js.map": "/folio20/static/js/2.26bc208b.chunk.js.map",
     "index.html": "/folio20/index.html",
-    "precache-manifest.4f5a11a02c53a56af42e5327f7d7cec5.js": "/folio20/precache-manifest.4f5a11a02c53a56af42e5327f7d7cec5.js",
+    "precache-manifest.49d47e37ff8fbbd88fa30016c35b3176.js": "/folio20/precache-manifest.49d47e37ff8fbbd88fa30016c35b3176.js",
     "service-worker.js": "/folio20/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/folio20/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.982b78ab.chunk.css.map": "/folio20/static/css/main.982b78ab.chunk.css.map",
-    "static/js/2.afb8ee3f.chunk.js.LICENSE.txt": "/folio20/static/js/2.afb8ee3f.chunk.js.LICENSE.txt",
+    "static/css/main.18f57c09.chunk.css.map": "/folio20/static/css/main.18f57c09.chunk.css.map",
+    "static/js/2.26bc208b.chunk.js.LICENSE.txt": "/folio20/static/js/2.26bc208b.chunk.js.LICENSE.txt",
     "static/media/_app.scss": "/folio20/static/media/ui-cursor-vertical-scroll.e7fea637.svg",
     "static/media/cruise-event.jpg": "/folio20/static/media/cruise-event.bd3cc717.jpg",
     "static/media/cruise-med-large2.jpg": "/folio20/static/media/cruise-med-large2.a6c47651.jpg",
     "static/media/cs-chart-desire-feasible.png": "/folio20/static/media/cs-chart-desire-feasible.9a2b485b.png",
     "static/media/cs-flow-diagram.svg": "/folio20/static/media/cs-flow-diagram.e3a11e4a.svg",
+    "static/media/header-image.jpg": "/folio20/static/media/header-image.eac3b50b.jpg",
     "static/media/ideation-experience-map.png": "/folio20/static/media/ideation-experience-map.b8beef67.png",
     "static/media/ideation-sketching.jpg": "/folio20/static/media/ideation-sketching.30f55212.jpg",
     "static/media/ideation-sketching.png": "/folio20/static/media/ideation-sketching.bc627fe3.png",
@@ -79,8 +80,8 @@
   "entrypoints": [
     "static/js/runtime-main.4d7e030a.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.afb8ee3f.chunk.js",
-    "static/css/main.982b78ab.chunk.css",
-    "static/js/main.c2349f40.chunk.js"
+    "static/js/2.26bc208b.chunk.js",
+    "static/css/main.18f57c09.chunk.css",
+    "static/js/main.7fffecbc.chunk.js"
   ]
 }
